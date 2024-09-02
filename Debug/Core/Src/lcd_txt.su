@@ -1,0 +1,6 @@
+../Core/Src/lcd_txt.c:6:6:lcd_init	8	static
+../Core/Src/lcd_txt.c:33:6:send_4_bits_to_lcd	16	static
+../Core/Src/lcd_txt.c:47:6:send_8_bits_to_lcd	16	static
+../Core/Src/lcd_txt.c:56:6:lcd_put_cur	16	static
+../Core/Src/lcd_txt.c:70:6:lcd_puts	24	static
+../Core/Src/lcd_txt.c:80:6:lcd_clear	8	static
